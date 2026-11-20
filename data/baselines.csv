@@ -1,0 +1,4 @@
+baseline_id,application_id,period,energy_kwh,production_units,method,verified
+B01,G001,2025-Q4,180000,9000,bill-and-output,1
+B02,G002,2025-Q4,240000,12000,metered,1
+B03,G003,2025-Q4,,10000,estimated,0

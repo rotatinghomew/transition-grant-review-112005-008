@@ -1,0 +1,4 @@
+milestone_id,application_id,stage,due_date,completed_at,evidence_id
+M01,G001,installation,2026-07-31,2026-07-28,E01
+M02,G001,measurement,2026-10-31,,
+M03,G002,installation,2026-08-31,2026-08-20,E02

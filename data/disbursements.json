@@ -1,0 +1,20 @@
+{
+  "payments": [
+    {
+      "payment_id": "P01",
+      "application_id": "G001",
+      "stage": "installation",
+      "amount": 39000,
+      "paid_at": "2026-08-01",
+      "status": "paid"
+    },
+    {
+      "payment_id": "P02",
+      "application_id": "G002",
+      "stage": "installation",
+      "amount": 60000,
+      "paid_at": "2026-08-25",
+      "status": "paid"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+application_id,company_id,program,submitted_at,requested_amount,status
+G001,C-01,boiler-upgrade,2026-04-01,80000,under_review
+G002,C-02,solar-roof,2026-04-03,120000,approved
+G003,C-01,metering,2026-04-05,20000,submitted

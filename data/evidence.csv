@@ -1,0 +1,4 @@
+evidence_id,application_id,type,asset_id,amount,checked_at,check_status
+E01,G001,invoice,EQ-10,78000,2026-07-30,accepted
+E02,G002,invoice,EQ-20,118000,2026-08-22,accepted
+E03,G003,invoice,EQ-10,20000,2026-08-10,rejected
